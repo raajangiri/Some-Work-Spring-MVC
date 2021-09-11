@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="myfirst-mvc-project"/>
+<aop-project name="mysecond-mvc-project"/>
+<aop-project name="spring-love-calculator"/>
+</aop-reference-model>

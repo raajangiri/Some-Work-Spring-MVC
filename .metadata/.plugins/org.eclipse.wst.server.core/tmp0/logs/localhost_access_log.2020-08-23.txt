@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/Aug/2020:12:29:45 +0545] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:29:51 +0545] "GET /spring-love-calculator/ HTTP/1.1" 200 1201
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:30:02 +0545] "GET /spring-love-calculator/home-process?userName=fdfdf&crushName=dfdfdf&_termandCondition=on HTTP/1.1" 200 1307
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:30:07 +0545] "GET /spring-love-calculator/home-process?userName=fdfdf&crushName=dfdfdf&termandCondition=true&_termandCondition=on HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:30:49 +0545] "GET /spring-love-calculator/WEB-INF/view/helloworld.jsp HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:31:23 +0545] "GET /spring-love-calculator/WEB-INF/view/registration-success.jsp HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:31:38 +0545] "GET /spring-love-calculator/WEB-INF/view/result-page.jsp HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:32:03 +0545] "GET /spring-love-calculator/ HTTP/1.1" 200 1201
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:32:13 +0545] "GET /spring-love-calculator/registration HTTP/1.1" 200 2144
+0:0:0:0:0:0:0:1 - - [23/Aug/2020:12:41:18 +0545] "GET /spring-love-calculator/home-process?userName=fdfdf&crushName=dfdfdf&termandCondition=true&_termandCondition=on HTTP/1.1" 200 245

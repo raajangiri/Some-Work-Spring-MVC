@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Aug 23 12:29:25 NPT 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\IAmNotIntrovert\\Documents\\workspace-sts-3.9.9.RELEASE\\mysecond-mvc-project\\WebContent\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\IAmNotIntrovert\\.m2\\repository\\org\\springframework\\spring-web\\5.2.7.RELEASE\\spring-web-5.2.7.RELEASE.jar=WEB-INF/lib/spring-web-5.2.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\IAmNotIntrovert\\Documents\\workspace-sts-3.9.9.RELEASE\\mysecond-mvc-project\\WebContent\\WEB-INF\\lib\\spring-web-5.0.5.RELEASE.jar=WEB-INF/lib/spring-web-5.0.5.RELEASE.jar
